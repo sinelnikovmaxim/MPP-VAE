@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a57fb19f-858d-4df8-9f76-7ad98caf55d8" name="Changes" comment="" />
+    <list default="true" id="a57fb19f-858d-4df8-9f76-7ad98caf55d8" name="Changes" comment="pushed all files" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -13,18 +13,18 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "lastFilter": {
-    "state": "OPEN",
-    "assignee": "sinelnikovmaxim"
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;sinelnikovmaxim&quot;
   }
-}]]></component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com/sinelnikovmaxim/MPP-VAE.git",
-    "accountId": "eb9c4672-095a-4686-b024-5f815ae4f6c1"
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/sinelnikovmaxim/MPP-VAE.git&quot;,
+    &quot;accountId&quot;: &quot;eb9c4672-095a-4686-b024-5f815ae4f6c1&quot;
   }
-}]]></component>
+}</component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 8
 }</component>
@@ -38,10 +38,11 @@
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
+    "RunOnceActivity.git.unshallow": "true",
     "RunOnceActivity.typescript.service.memoryLimit.init": "true",
     "ai.playground.ignore.import.keys.banner.in.settings": "true",
     "git-widget-placeholder": "main",
-    "last_opened_file_path": "/Users/maksimsinelnikov/MPP-VAE/LLPPSM",
+    "last_opened_file_path": "/Users/maksimsinelnikov/MPP-VAE",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -78,10 +79,24 @@
       <workItem from="1772545440603" duration="527000" />
       <workItem from="1772545970672" duration="122000" />
       <workItem from="1772546317176" duration="7412000" />
+      <workItem from="1772553798533" duration="128000" />
     </task>
+    <task id="LOCAL-00001" summary="pushed all files">
+      <option name="closed" value="true" />
+      <created>1772553922182</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1772553922182</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="pushed all files" />
+    <option name="LAST_COMMIT_MESSAGE" value="pushed all files" />
   </component>
 </project>
